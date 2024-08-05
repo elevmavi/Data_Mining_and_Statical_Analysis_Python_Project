@@ -1,0 +1,1067 @@
+Rule	support	confidence
+product46, product33 -> product17	3.2%	100.0%
+product49, product13, product32 -> product37	3.1%	100.0%
+product49, product13, product37 -> product32	3.1%	100.0%
+product49, product32, product37 -> product13	3.1%	100.0%
+product42, product24 -> product25	2.9%	100.0%
+product25, product42, product41 -> product24	2.8%	100.0%
+product25, product41, product24 -> product42	2.8%	100.0%
+product42, product41, product24 -> product25	2.8%	100.0%
+product38, product12, product46 -> product8	2.4%	100.0%
+product38, product46, product8 -> product12	2.4%	100.0%
+product12, product46, product8 -> product38	2.4%	100.0%
+product25, product44, product41 -> product24	1.9%	100.0%
+product25, product44, product24 -> product41	1.9%	100.0%
+product44, product41, product24 -> product25	1.9%	100.0%
+product25, product42, product44 -> product24	1.9%	100.0%
+product25, product44, product24 -> product42	1.9%	100.0%
+product42, product44, product24 -> product25	1.9%	100.0%
+product42, product44, product41 -> product24	1.9%	100.0%
+product42, product44, product24 -> product41	1.9%	100.0%
+product44, product41, product24 -> product42	1.9%	100.0%
+product25, product42, product44 -> product41	1.9%	100.0%
+product25, product44, product41 -> product42	1.9%	100.0%
+product42, product44, product41 -> product25	1.9%	100.0%
+product25, product42, product44, product24 -> product41	1.9%	100.0%
+product25, product44, product41, product24 -> product42	1.9%	100.0%
+product42, product44, product41, product24 -> product25	1.9%	100.0%
+product25, product42, product44, product41 -> product24	1.9%	100.0%
+product25, product44, product24 -> product42, product41	1.9%	100.0%
+product42, product44, product24 -> product25, product41	1.9%	100.0%
+product44, product41, product24 -> product25, product42	1.9%	100.0%
+product25, product42, product44 -> product41, product24	1.9%	100.0%
+product25, product44, product41 -> product42, product24	1.9%	100.0%
+product42, product44, product41 -> product25, product24	1.9%	100.0%
+product48, product30 -> product18	1.8%	100.0%
+product30, product18 -> product48	1.8%	100.0%
+product13, product37 -> product32	4.0%	97.56%
+product3, product47 -> product1	3.8%	97.44%
+product36, product4 -> product19	3.8%	97.44%
+product17, product46 -> product33	3.2%	96.97%
+product25, product42 -> product24	2.9%	96.67%
+product42, product41 -> product24	2.8%	96.55%
+product42, product24 -> product41	2.8%	96.55%
+product42, product41 -> product25	2.8%	96.55%
+product25, product42, product24 -> product41	2.8%	96.55%
+product42, product41 -> product25, product24	2.8%	96.55%
+product42, product24 -> product25, product41	2.8%	96.55%
+product38, product46 -> product8	2.4%	96.0%
+product38, product46 -> product12	2.4%	96.0%
+product38, product46 -> product12, product8	2.4%	96.0%
+product50, product8 -> product16	2.3%	95.83%
+product50, product16 -> product8	2.3%	95.83%
+product32, product37 -> product13	4.0%	95.24%
+product3, product1 -> product47	3.8%	95.0%
+product25, product44 -> product24	1.9%	95.0%
+product44, product24 -> product25	1.9%	95.0%
+product44, product24 -> product41	1.9%	95.0%
+product44, product24 -> product42	1.9%	95.0%
+product25, product44 -> product41	1.9%	95.0%
+product25, product44 -> product42	1.9%	95.0%
+product25, product44 -> product41, product24	1.9%	95.0%
+product44, product24 -> product25, product41	1.9%	95.0%
+product25, product44 -> product42, product24	1.9%	95.0%
+product44, product24 -> product25, product42	1.9%	95.0%
+product44, product24 -> product42, product41	1.9%	95.0%
+product25, product44 -> product42, product41	1.9%	95.0%
+product44, product24 -> product25, product42, product41	1.9%	95.0%
+product25, product44 -> product42, product41, product24	1.9%	95.0%
+product49, product32 -> product13	3.1%	93.94%
+product49, product37 -> product13	3.1%	93.94%
+product49, product32 -> product37	3.1%	93.94%
+product49, product37 -> product32	3.1%	93.94%
+product49, product32 -> product13, product37	3.1%	93.94%
+product49, product37 -> product13, product32	3.1%	93.94%
+product25, product42 -> product41	2.8%	93.33%
+product25, product42 -> product41, product24	2.8%	93.33%
+product38, product12 -> product8	2.7%	93.1%
+product19, product4 -> product36	3.8%	92.68%
+product46, product8 -> product12	2.4%	92.31%
+product46, product8 -> product38	2.4%	92.31%
+product46, product8 -> product38, product12	2.4%	92.31%
+product13, product32 -> product37	4.0%	90.91%
+product44, product41 -> product24	1.9%	90.48%
+product44, product41 -> product25	1.9%	90.48%
+product44, product41 -> product42	1.9%	90.48%
+product44, product41 -> product25, product24	1.9%	90.48%
+product44, product41 -> product42, product24	1.9%	90.48%
+product44, product41 -> product25, product42	1.9%	90.48%
+product44, product41 -> product25, product42, product24	1.9%	90.48%
+product25, product41 -> product24	2.8%	90.32%
+product41, product24 -> product25	2.8%	90.32%
+product41, product24 -> product42	2.8%	90.32%
+product25, product41 -> product42	2.8%	90.32%
+product25, product41 -> product42, product24	2.8%	90.32%
+product41, product24 -> product25, product42	2.8%	90.32%
+product38, product8 -> product12	2.7%	90.0%
+product38, product12, product8 -> product46	2.4%	88.89%
+product25, product24 -> product42	2.9%	87.88%
+product49, product13 -> product32	3.1%	86.11%
+product49, product13 -> product37	3.1%	86.11%
+product49, product13 -> product32, product37	3.1%	86.11%
+product29, product14 -> product28	0.6%	85.71%
+product14, product28 -> product29	0.6%	85.71%
+product25, product24 -> product41	2.8%	84.85%
+product25, product24 -> product42, product41	2.8%	84.85%
+product45, product20 -> product2	0.5%	83.33%
+product34, product5 -> product10	0.5%	83.33%
+product12, product46 -> product8	2.4%	82.76%
+product38, product12 -> product46	2.4%	82.76%
+product12, product46 -> product38	2.4%	82.76%
+product38, product12 -> product46, product8	2.4%	82.76%
+product12, product46 -> product38, product8	2.4%	82.76%
+product36, product19 -> product4	3.8%	82.61%
+product42, product44 -> product24	1.9%	82.61%
+product42, product44 -> product25	1.9%	82.61%
+product42, product44 -> product41	1.9%	82.61%
+product42, product44 -> product25, product24	1.9%	82.61%
+product42, product44 -> product41, product24	1.9%	82.61%
+product42, product44 -> product25, product41	1.9%	82.61%
+product42, product44 -> product25, product41, product24	1.9%	82.61%
+product12, product8 -> product38	2.7%	81.82%
+product1, product47 -> product3	3.8%	80.85%
+product17, product33 -> product46	3.2%	80.0%
+product38, product8 -> product46	2.4%	80.0%
+product38, product8 -> product12, product46	2.4%	80.0%
+product13, product32, product37 -> product49	3.1%	77.5%
+product13, product37 -> product49	3.1%	75.61%
+product13, product37 -> product49, product32	3.1%	75.61%
+product8, product16 -> product50	2.3%	74.19%
+product32, product37 -> product49	3.1%	73.81%
+product32, product37 -> product49, product13	3.1%	73.81%
+product12, product8 -> product46	2.4%	72.73%
+product12, product8 -> product38, product46	2.4%	72.73%
+product45, product2 -> product20	0.5%	71.43%
+product13, product32 -> product49	3.1%	70.45%
+product13, product32 -> product49, product37	3.1%	70.45%
+product48, product18 -> product30	1.8%	69.23%
+product25, product41, product24 -> product44	1.9%	67.86%
+product42, product41, product24 -> product44	1.9%	67.86%
+product25, product42, product41 -> product44	1.9%	67.86%
+product25, product42, product41, product24 -> product44	1.9%	67.86%
+product25, product41, product24 -> product42, product44	1.9%	67.86%
+product42, product41, product24 -> product25, product44	1.9%	67.86%
+product25, product42, product41 -> product44, product24	1.9%	67.86%
+product23, product32 -> product6	0.6%	66.67%
+product42, product24 -> product44	1.9%	65.52%
+product42, product41 -> product44	1.9%	65.52%
+product25, product42, product24 -> product44	1.9%	65.52%
+product42, product24 -> product25, product44	1.9%	65.52%
+product42, product41 -> product44, product24	1.9%	65.52%
+product42, product24 -> product44, product41	1.9%	65.52%
+product42, product41 -> product25, product44	1.9%	65.52%
+product25, product42, product24 -> product44, product41	1.9%	65.52%
+product42, product24 -> product25, product44, product41	1.9%	65.52%
+product42, product41 -> product25, product44, product24	1.9%	65.52%
+product25, product42 -> product44	1.9%	63.33%
+product25, product42 -> product44, product24	1.9%	63.33%
+product25, product42 -> product44, product41	1.9%	63.33%
+product25, product42 -> product44, product41, product24	1.9%	63.33%
+product34, product10 -> product5	0.5%	62.5%
+product36 -> product19	4.6%	61.33%
+product41, product24 -> product44	1.9%	61.29%
+product25, product41 -> product44	1.9%	61.29%
+product25, product41 -> product44, product24	1.9%	61.29%
+product41, product24 -> product25, product44	1.9%	61.29%
+product41, product24 -> product42, product44	1.9%	61.29%
+product25, product41 -> product42, product44	1.9%	61.29%
+product41, product24 -> product25, product42, product44	1.9%	61.29%
+product25, product41 -> product42, product44, product24	1.9%	61.29%
+product32, product6 -> product23	0.6%	60.0%
+product34, product24 -> product43	0.6%	60.0%
+product28 -> product29	5.3%	58.89%
+product25, product24 -> product44	1.9%	57.58%
+product25, product24 -> product44, product41	1.9%	57.58%
+product25, product24 -> product42, product44	1.9%	57.58%
+product25, product24 -> product42, product44, product41	1.9%	57.58%
+product6 -> product23	5.8%	56.31%
+product1 -> product47	4.7%	55.95%
+product13 -> product32	4.4%	55.7%
+product3 -> product1	4.0%	55.56%
+product47 -> product1	4.7%	55.29%
+product19 -> product36	4.6%	54.76%
+product43, product24 -> product34	0.6%	54.55%
+product10 -> product5	4.9%	54.44%
+product3 -> product47	3.9%	54.17%
+product5 -> product10	4.9%	53.85%
+product23 -> product6	5.8%	53.7%
+product3 -> product1, product47	3.8%	52.78%
+product20 -> product2	4.0%	52.63%
+product33 -> product17	4.0%	52.63%
+product4 -> product19	4.1%	52.56%
+product36 -> product4	3.9%	52.0%
+product29 -> product28	5.3%	51.96%
+product13 -> product37	4.1%	51.9%
+product18 -> product48	2.6%	50.98%
+product36 -> product19, product4	3.8%	50.67%
+product13 -> product32, product37	4.0%	50.63%
+product37 -> product32	4.2%	50.0%
+product4 -> product36	3.9%	50.0%
+product25 -> product24	3.3%	50.0%
+product17 -> product33	4.0%	49.38%
+product19 -> product4	4.1%	48.81%
+product37 -> product13	4.1%	48.81%
+product34 -> product43	3.8%	48.72%
+product4 -> product36, product19	3.8%	48.72%
+product12 -> product8	3.3%	48.53%
+product32 -> product13	4.4%	48.35%
+product1 -> product3	4.0%	47.62%
+product37 -> product13, product32	4.0%	47.62%
+product2 -> product20	4.0%	47.06%
+product41 -> product24	3.1%	46.97%
+product25 -> product41	3.1%	46.97%
+product41 -> product25	3.1%	46.97%
+product49 -> product13	3.6%	46.75%
+product43 -> product34	3.8%	46.34%
+product32 -> product37	4.2%	46.15%
+product38 -> product8	3.0%	46.15%
+product47 -> product3	3.9%	45.88%
+product13 -> product49	3.6%	45.57%
+product25 -> product42	3.0%	45.45%
+product1 -> product3, product47	3.8%	45.24%
+product19 -> product36, product4	3.8%	45.24%
+product47 -> product3, product1	3.8%	44.71%
+product38 -> product12	2.9%	44.62%
+product45 -> product15	3.4%	44.16%
+product32 -> product13, product37	4.0%	43.96%
+product41 -> product42	2.9%	43.94%
+product25 -> product42, product24	2.9%	43.94%
+product49 -> product32	3.3%	42.86%
+product49 -> product37	3.3%	42.86%
+product12 -> product38	2.9%	42.65%
+product12 -> product46	2.9%	42.65%
+product16 -> product8	3.1%	42.47%
+product25 -> product41, product24	2.8%	42.42%
+product41 -> product25, product24	2.8%	42.42%
+product41 -> product42, product24	2.8%	42.42%
+product25 -> product42, product41	2.8%	42.42%
+product41 -> product25, product42	2.8%	42.42%
+product25 -> product42, product41, product24	2.8%	42.42%
+product41 -> product25, product42, product24	2.8%	42.42%
+product33 -> product46	3.2%	42.11%
+product33 -> product17, product46	3.2%	42.11%
+product42 -> product25	3.0%	41.67%
+product23, product15 -> product6	0.5%	41.67%
+product38 -> product12, product8	2.7%	41.54%
+product17 -> product46	3.3%	40.74%
+product50 -> product8	2.4%	40.68%
+product50 -> product16	2.4%	40.68%
+product42 -> product24	2.9%	40.28%
+product42 -> product41	2.9%	40.28%
+product42 -> product25, product24	2.9%	40.28%
+product49 -> product13, product32	3.1%	40.26%
+product49 -> product13, product37	3.1%	40.26%
+product49 -> product32, product37	3.1%	40.26%
+product49 -> product13, product32, product37	3.1%	40.26%
+product24 -> product25	3.3%	40.24%
+product12 -> product38, product8	2.7%	39.71%
+product17 -> product46, product33	3.2%	39.51%
+product37 -> product49	3.3%	39.29%
+product13 -> product49, product32	3.1%	39.24%
+product13 -> product49, product37	3.1%	39.24%
+product13 -> product49, product32, product37	3.1%	39.24%
+product50 -> product8, product16	2.3%	38.98%
+product42 -> product41, product24	2.8%	38.89%
+product42 -> product25, product41	2.8%	38.89%
+product42 -> product25, product41, product24	2.8%	38.89%
+product38 -> product46	2.5%	38.46%
+product6, product15 -> product23	0.5%	38.46%
+product24 -> product41	3.1%	37.8%
+product44 -> product42	2.3%	37.1%
+product38 -> product46, product8	2.4%	36.92%
+product38 -> product12, product46	2.4%	36.92%
+product38 -> product12, product46, product8	2.4%	36.92%
+product37 -> product49, product13	3.1%	36.9%
+product37 -> product49, product32	3.1%	36.9%
+product37 -> product49, product13, product32	3.1%	36.9%
+product32 -> product49	3.3%	36.26%
+product15 -> product45	3.4%	35.79%
+product8 -> product12	3.3%	35.48%
+product24 -> product42	2.9%	35.37%
+product24 -> product25, product42	2.9%	35.37%
+product18 -> product30	1.8%	35.29%
+product18 -> product48, product30	1.8%	35.29%
+product12 -> product46, product8	2.4%	35.29%
+product12 -> product38, product46	2.4%	35.29%
+product12 -> product38, product46, product8	2.4%	35.29%
+product48 -> product18	2.6%	35.14%
+product46 -> product17	3.3%	35.11%
+product24 -> product25, product41	2.8%	34.15%
+product24 -> product42, product41	2.8%	34.15%
+product24 -> product25, product42, product41	2.8%	34.15%
+product32 -> product49, product13	3.1%	34.07%
+product32 -> product49, product37	3.1%	34.07%
+product32 -> product49, product13, product37	3.1%	34.07%
+product46 -> product33	3.2%	34.04%
+product46 -> product17, product33	3.2%	34.04%
+product44 -> product41	2.1%	33.87%
+product8 -> product16	3.1%	33.33%
+product16 -> product50	2.4%	32.88%
+product8 -> product38	3.0%	32.26%
+product44 -> product24	2.0%	32.26%
+product44 -> product25	2.0%	32.26%
+product42 -> product44	2.3%	31.94%
+product41 -> product44	2.1%	31.82%
+product16 -> product50, product8	2.3%	31.51%
+product46 -> product12	2.9%	30.85%
+product44 -> product25, product24	1.9%	30.65%
+product44 -> product41, product24	1.9%	30.65%
+product44 -> product42, product24	1.9%	30.65%
+product44 -> product25, product41	1.9%	30.65%
+product44 -> product25, product42	1.9%	30.65%
+product44 -> product42, product41	1.9%	30.65%
+product44 -> product25, product41, product24	1.9%	30.65%
+product44 -> product25, product42, product24	1.9%	30.65%
+product44 -> product42, product41, product24	1.9%	30.65%
+product44 -> product25, product42, product41	1.9%	30.65%
+product44 -> product25, product42, product41, product24	1.9%	30.65%
+product25 -> product44	2.0%	30.3%
+product30 -> product18	1.8%	29.51%
+product30 -> product48	1.8%	29.51%
+product30 -> product48, product18	1.8%	29.51%
+product8 -> product38, product12	2.7%	29.03%
+product25 -> product44, product24	1.9%	28.79%
+product41 -> product44, product24	1.9%	28.79%
+product25 -> product44, product41	1.9%	28.79%
+product41 -> product25, product44	1.9%	28.79%
+product25 -> product42, product44	1.9%	28.79%
+product41 -> product42, product44	1.9%	28.79%
+product25 -> product44, product41, product24	1.9%	28.79%
+product41 -> product25, product44, product24	1.9%	28.79%
+product25 -> product42, product44, product24	1.9%	28.79%
+product41 -> product42, product44, product24	1.9%	28.79%
+product25 -> product42, product44, product41	1.9%	28.79%
+product41 -> product25, product42, product44	1.9%	28.79%
+product25 -> product42, product44, product41, product24	1.9%	28.79%
+product41 -> product25, product42, product44, product24	1.9%	28.79%
+product8 -> product46	2.6%	27.96%
+product46 -> product8	2.6%	27.66%
+product46 -> product38	2.5%	26.6%
+product42 -> product44, product24	1.9%	26.39%
+product42 -> product25, product44	1.9%	26.39%
+product42 -> product44, product41	1.9%	26.39%
+product42 -> product25, product44, product24	1.9%	26.39%
+product42 -> product44, product41, product24	1.9%	26.39%
+product42 -> product25, product44, product41	1.9%	26.39%
+product42 -> product25, product44, product41, product24	1.9%	26.39%
+product8 -> product50	2.4%	25.81%
+product8 -> product12, product46	2.4%	25.81%
+product8 -> product38, product46	2.4%	25.81%
+product8 -> product38, product12, product46	2.4%	25.81%
+product46 -> product12, product8	2.4%	25.53%
+product46 -> product38, product8	2.4%	25.53%
+product46 -> product38, product12	2.4%	25.53%
+product46 -> product38, product12, product8	2.4%	25.53%
+product8 -> product50, product16	2.3%	24.73%
+product24 -> product44	2.0%	24.39%
+product48 -> product30	1.8%	24.32%
+product48 -> product30, product18	1.8%	24.32%
+product24 -> product25, product44	1.9%	23.17%
+product24 -> product44, product41	1.9%	23.17%
+product24 -> product42, product44	1.9%	23.17%
+product24 -> product25, product44, product41	1.9%	23.17%
+product24 -> product25, product42, product44	1.9%	23.17%
+product24 -> product42, product44, product41	1.9%	23.17%
+product24 -> product25, product42, product44, product41	1.9%	23.17%
+product9 -> product23	0.8%	21.62%
+product7 -> product23	0.7%	20.59%
+product11 -> product5	0.8%	19.51%
+product39 -> product49	0.5%	19.23%
+product9 -> product2	0.7%	18.92%
+product9 -> product30	0.7%	18.92%
+product26 -> product2	0.7%	18.42%
+product14 -> product10	1.0%	17.86%
+product7 -> product29	0.6%	17.65%
+product27 -> product15	0.8%	17.02%
+product9 -> product20	0.6%	16.22%
+product22 -> product5	0.7%	15.91%
+product22 -> product43	0.7%	15.91%
+product43, product34 -> product24	0.6%	15.79%
+product21 -> product15	0.6%	15.0%
+product21 -> product17	0.6%	15.0%
+product21 -> product46	0.6%	15.0%
+product27 -> product13	0.7%	14.89%
+product27 -> product29	0.7%	14.89%
+product7 -> product1	0.5%	14.71%
+product7 -> product10	0.5%	14.71%
+product7 -> product17	0.5%	14.71%
+product7 -> product34	0.5%	14.71%
+product11 -> product15	0.6%	14.63%
+product11 -> product23	0.6%	14.63%
+product40 -> product34	0.8%	14.55%
+product31 -> product1	0.7%	14.29%
+product31 -> product6	0.7%	14.29%
+product31 -> product20	0.7%	14.29%
+product31 -> product24	0.7%	14.29%
+product35 -> product28	0.6%	14.29%
+product38 -> product23	0.9%	13.85%
+product15 -> product6	1.3%	13.68%
+product22 -> product6	0.6%	13.64%
+product22 -> product15	0.6%	13.64%
+product22 -> product24	0.6%	13.64%
+product22 -> product25	0.6%	13.64%
+product22 -> product28	0.6%	13.64%
+product9 -> product15	0.5%	13.51%
+product9 -> product19	0.5%	13.51%
+product9 -> product22	0.5%	13.51%
+product9 -> product43	0.5%	13.51%
+product9 -> product48	0.5%	13.51%
+product43 -> product24	1.1%	13.41%
+product24 -> product43	1.1%	13.41%
+product26 -> product28	0.5%	13.16%
+product26 -> product50	0.5%	13.16%
+product30 -> product47	0.8%	13.11%
+product34 -> product24	1.0%	12.82%
+product27 -> product6	0.6%	12.77%
+product27 -> product17	0.6%	12.77%
+product27 -> product45	0.6%	12.77%
+product40 -> product1	0.7%	12.73%
+product40 -> product6	0.7%	12.73%
+product40 -> product23	0.7%	12.73%
+product40 -> product29	0.7%	12.73%
+product40 -> product46	0.7%	12.73%
+product15 -> product23	1.2%	12.63%
+product6 -> product15	1.3%	12.62%
+product14 -> product5	0.7%	12.5%
+product14 -> product28	0.7%	12.5%
+product14 -> product29	0.7%	12.5%
+product14 -> product37	0.7%	12.5%
+product21 -> product1	0.5%	12.5%
+product21 -> product8	0.5%	12.5%
+product21 -> product23	0.5%	12.5%
+product21 -> product30	0.5%	12.5%
+product21 -> product33	0.5%	12.5%
+product21 -> product43	0.5%	12.5%
+product21 -> product45	0.5%	12.5%
+product21 -> product47	0.5%	12.5%
+product2, product20 -> product45	0.5%	12.5%
+product38 -> product10	0.8%	12.31%
+product31 -> product8	0.6%	12.24%
+product31 -> product44	0.6%	12.24%
+product43 -> product6	1.0%	12.2%
+product24 -> product34	1.0%	12.2%
+product11 -> product6	0.5%	12.2%
+product11 -> product17	0.5%	12.2%
+product11 -> product45	0.5%	12.2%
+product48 -> product34	0.9%	12.16%
+product41 -> product10	0.8%	12.12%
+product35 -> product13	0.5%	11.9%
+product35 -> product16	0.5%	11.9%
+product35 -> product45	0.5%	11.9%
+product18 -> product17	0.6%	11.76%
+product49 -> product29	0.9%	11.69%
+product34 -> product6	0.9%	11.54%
+product34 -> product48	0.9%	11.54%
+product30 -> product4	0.7%	11.48%
+product30 -> product9	0.7%	11.48%
+product30 -> product19	0.7%	11.48%
+product13 -> product5	0.9%	11.39%
+product22 -> product8	0.5%	11.36%
+product22 -> product9	0.5%	11.36%
+product22 -> product10	0.5%	11.36%
+product22 -> product16	0.5%	11.36%
+product22 -> product29	0.5%	11.36%
+product22 -> product31	0.5%	11.36%
+product22 -> product32	0.5%	11.36%
+product22 -> product34	0.5%	11.36%
+product22 -> product40	0.5%	11.36%
+product29, product28 -> product14	0.6%	11.32%
+product23 -> product15	1.2%	11.11%
+product10 -> product14	1.0%	11.11%
+product10 -> product46	1.0%	11.11%
+product3 -> product20	0.8%	11.11%
+product32 -> product6	1.0%	10.99%
+product43 -> product28	0.9%	10.98%
+product16 -> product10	0.8%	10.96%
+product40 -> product3	0.6%	10.91%
+product40 -> product28	0.6%	10.91%
+product40 -> product38	0.6%	10.91%
+product40 -> product50	0.6%	10.91%
+product48 -> product19	0.8%	10.81%
+product38 -> product5	0.7%	10.77%
+product14 -> product36	0.6%	10.71%
+product14 -> product42	0.6%	10.71%
+product14 -> product43	0.6%	10.71%
+product14 -> product29, product28	0.6%	10.71%
+product37 -> product28	0.9%	10.71%
+product46 -> product10	1.0%	10.64%
+product27 -> product1	0.5%	10.64%
+product27 -> product2	0.5%	10.64%
+product27 -> product14	0.5%	10.64%
+product27 -> product16	0.5%	10.64%
+product27 -> product32	0.5%	10.64%
+product27 -> product37	0.5%	10.64%
+product27 -> product40	0.5%	10.64%
+product27 -> product46	0.5%	10.64%
+product27 -> product48	0.5%	10.64%
+product27 -> product49	0.5%	10.64%
+product25 -> product10	0.7%	10.61%
+product33 -> product2	0.8%	10.53%
+product20 -> product3	0.8%	10.53%
+product33 -> product15	0.8%	10.53%
+product49 -> product2	0.8%	10.39%
+product23, product6 -> product32	0.6%	10.34%
+product12 -> product15	0.7%	10.29%
+product34 -> product1	0.8%	10.26%
+product4 -> product2	0.8%	10.26%
+product34 -> product10	0.8%	10.26%
+product34 -> product40	0.8%	10.26%
+product34 -> product47	0.8%	10.26%
+product31 -> product2	0.5%	10.2%
+product31 -> product22	0.5%	10.2%
+product31 -> product32	0.5%	10.2%
+product31 -> product45	0.5%	10.2%
+product31 -> product47	0.5%	10.2%
+product10, product5 -> product34	0.5%	10.2%
+product50 -> product17	0.6%	10.17%
+product50 -> product40	0.6%	10.17%
+product28 -> product37	0.9%	10.0%
+product28 -> product43	0.9%	10.0%
+product28 -> product46	0.9%	10.0%
+product5 -> product13	0.9%	9.89%
+product32 -> product23	0.9%	9.89%
+product30 -> product2	0.6%	9.84%
+product30 -> product8	0.6%	9.84%
+product30 -> product12	0.6%	9.84%
+product30 -> product15	0.6%	9.84%
+product30 -> product36	0.6%	9.84%
+product18 -> product5	0.5%	9.8%
+product18 -> product10	0.5%	9.8%
+product18 -> product44	0.5%	9.8%
+product43 -> product23	0.8%	9.76%
+product3 -> product2	0.7%	9.72%
+product3 -> product23	0.7%	9.72%
+product6 -> product32	1.0%	9.71%
+product6 -> product43	1.0%	9.71%
+product44 -> product6	0.6%	9.68%
+product44 -> product29	0.6%	9.68%
+product44 -> product31	0.6%	9.68%
+product44 -> product47	0.6%	9.68%
+product16 -> product5	0.7%	9.59%
+product46 -> product28	0.9%	9.57%
+product1 -> product34	0.8%	9.52%
+product19 -> product15	0.8%	9.52%
+product19 -> product48	0.8%	9.52%
+product48 -> product1	0.7%	9.46%
+product48 -> product5	0.7%	9.46%
+product48 -> product23	0.7%	9.46%
+product48 -> product29	0.7%	9.46%
+product2 -> product4	0.8%	9.41%
+product2 -> product33	0.8%	9.41%
+product2 -> product49	0.8%	9.41%
+product47 -> product23	0.8%	9.41%
+product47 -> product29	0.8%	9.41%
+product47 -> product30	0.8%	9.41%
+product47 -> product34	0.8%	9.41%
+product36 -> product6	0.7%	9.33%
+product38 -> product40	0.6%	9.23%
+product20 -> product29	0.7%	9.21%
+product20 -> product31	0.7%	9.21%
+product45 -> product2	0.7%	9.09%
+product45 -> product4	0.7%	9.09%
+product45 -> product32	0.7%	9.09%
+product25 -> product22	0.6%	9.09%
+product40 -> product10	0.5%	9.09%
+product40 -> product19	0.5%	9.09%
+product40 -> product22	0.5%	9.09%
+product40 -> product25	0.5%	9.09%
+product40 -> product27	0.5%	9.09%
+product40 -> product32	0.5%	9.09%
+product40 -> product43	0.5%	9.09%
+product40 -> product45	0.5%	9.09%
+product40 -> product47	0.5%	9.09%
+product4 -> product30	0.7%	8.97%
+product4 -> product45	0.7%	8.97%
+product34 -> product23	0.7%	8.97%
+product34 -> product29	0.7%	8.97%
+product14 -> product2	0.5%	8.93%
+product14 -> product6	0.5%	8.93%
+product14 -> product15	0.5%	8.93%
+product14 -> product23	0.5%	8.93%
+product14 -> product25	0.5%	8.93%
+product14 -> product27	0.5%	8.93%
+product14 -> product34	0.5%	8.93%
+product14 -> product46	0.5%	8.93%
+product14 -> product47	0.5%	8.93%
+product10 -> product8	0.8%	8.89%
+product10 -> product16	0.8%	8.89%
+product10 -> product34	0.8%	8.89%
+product10 -> product38	0.8%	8.89%
+product10 -> product41	0.8%	8.89%
+product28 -> product32	0.8%	8.89%
+product13 -> product27	0.7%	8.86%
+product29 -> product6	0.9%	8.82%
+product29 -> product49	0.9%	8.82%
+product12 -> product10	0.6%	8.82%
+product12 -> product30	0.6%	8.82%
+product12 -> product36	0.6%	8.82%
+product5 -> product11	0.8%	8.79%
+product5 -> product15	0.8%	8.79%
+product32 -> product28	0.8%	8.79%
+product6 -> product29	0.9%	8.74%
+product6 -> product34	0.9%	8.74%
+product17 -> product1	0.7%	8.64%
+product23, product6 -> product15	0.5%	8.62%
+product8 -> product10	0.8%	8.6%
+product8 -> product23	0.8%	8.6%
+product43 -> product22	0.7%	8.54%
+product24 -> product31	0.7%	8.54%
+product50 -> product13	0.5%	8.47%
+product50 -> product26	0.5%	8.47%
+product50 -> product29	0.5%	8.47%
+product50 -> product38	0.5%	8.47%
+product15 -> product5	0.8%	8.42%
+product15 -> product19	0.8%	8.42%
+product15 -> product27	0.8%	8.42%
+product15 -> product29	0.8%	8.42%
+product15 -> product33	0.8%	8.42%
+product3 -> product29	0.6%	8.33%
+product3 -> product34	0.6%	8.33%
+product3 -> product40	0.6%	8.33%
+product42 -> product14	0.6%	8.33%
+product42 -> product29	0.6%	8.33%
+product42 -> product32	0.6%	8.33%
+product23 -> product32	0.9%	8.33%
+product23 -> product38	0.9%	8.33%
+product1 -> product17	0.7%	8.33%
+product1 -> product29	0.7%	8.33%
+product1 -> product31	0.7%	8.33%
+product1 -> product40	0.7%	8.33%
+product1 -> product48	0.7%	8.33%
+product37 -> product2	0.7%	8.33%
+product37 -> product5	0.7%	8.33%
+product19 -> product10	0.7%	8.33%
+product37 -> product14	0.7%	8.33%
+product19 -> product30	0.7%	8.33%
+product2 -> product3	0.7%	8.24%
+product2 -> product9	0.7%	8.24%
+product2 -> product15	0.7%	8.24%
+product2 -> product26	0.7%	8.24%
+product2 -> product32	0.7%	8.24%
+product2 -> product37	0.7%	8.24%
+product2 -> product45	0.7%	8.24%
+product47 -> product15	0.7%	8.24%
+product47 -> product32	0.7%	8.24%
+product16 -> product23	0.6%	8.22%
+product30 -> product21	0.5%	8.2%
+product30 -> product38	0.5%	8.2%
+product30 -> product44	0.5%	8.2%
+product30 -> product45	0.5%	8.2%
+product48 -> product15	0.6%	8.11%
+product48 -> product36	0.6%	8.11%
+product48 -> product45	0.6%	8.11%
+product44 -> product5	0.5%	8.06%
+product44 -> product8	0.5%	8.06%
+product44 -> product10	0.5%	8.06%
+product44 -> product12	0.5%	8.06%
+product44 -> product15	0.5%	8.06%
+product44 -> product18	0.5%	8.06%
+product44 -> product20	0.5%	8.06%
+product44 -> product23	0.5%	8.06%
+product44 -> product30	0.5%	8.06%
+product44 -> product38	0.5%	8.06%
+product36 -> product12	0.6%	8.0%
+product36 -> product14	0.6%	8.0%
+product36 -> product15	0.6%	8.0%
+product36 -> product23	0.6%	8.0%
+product36 -> product30	0.6%	8.0%
+product36 -> product47	0.6%	8.0%
+product36 -> product48	0.6%	8.0%
+product20 -> product6	0.6%	7.89%
+product33 -> product6	0.6%	7.89%
+product20 -> product9	0.6%	7.89%
+product20 -> product45	0.6%	7.89%
+product29 -> product15	0.8%	7.84%
+product29 -> product47	0.8%	7.84%
+product49 -> product5	0.6%	7.79%
+product49 -> product6	0.6%	7.79%
+product45 -> product13	0.6%	7.79%
+product45 -> product20	0.6%	7.79%
+product49 -> product23	0.6%	7.79%
+product45 -> product27	0.6%	7.79%
+product45 -> product43	0.6%	7.79%
+product45 -> product48	0.6%	7.79%
+product10 -> product19	0.7%	7.78%
+product10 -> product23	0.7%	7.78%
+product10 -> product25	0.7%	7.78%
+product10 -> product29	0.7%	7.78%
+product28 -> product14	0.7%	7.78%
+product32 -> product2	0.7%	7.69%
+product5 -> product14	0.7%	7.69%
+product5 -> product16	0.7%	7.69%
+product5 -> product22	0.7%	7.69%
+product5 -> product37	0.7%	7.69%
+product5 -> product38	0.7%	7.69%
+product5 -> product48	0.7%	7.69%
+product32 -> product15	0.7%	7.69%
+product32 -> product45	0.7%	7.69%
+product32 -> product47	0.7%	7.69%
+product34 -> product3	0.6%	7.69%
+product4 -> product5	0.6%	7.69%
+product4 -> product15	0.6%	7.69%
+product4 -> product23	0.6%	7.69%
+product34 -> product5	0.6%	7.69%
+product34 -> product17	0.6%	7.69%
+product34 -> product32	0.6%	7.69%
+product34 -> product43, product24	0.6%	7.69%
+product38 -> product30	0.5%	7.69%
+product38 -> product43	0.5%	7.69%
+product38 -> product44	0.5%	7.69%
+product38 -> product50	0.5%	7.69%
+product13 -> product45	0.6%	7.59%
+product25 -> product14	0.5%	7.58%
+product25 -> product15	0.5%	7.58%
+product41 -> product19	0.5%	7.58%
+product25 -> product28	0.5%	7.58%
+product25 -> product32	0.5%	7.58%
+product25 -> product40	0.5%	7.58%
+product25 -> product47	0.5%	7.58%
+product8 -> product6	0.7%	7.53%
+product46 -> product29	0.7%	7.45%
+product46 -> product40	0.7%	7.45%
+product23 -> product8	0.8%	7.41%
+product23 -> product9	0.8%	7.41%
+product23 -> product43	0.8%	7.41%
+product23 -> product47	0.8%	7.41%
+product17 -> product6	0.6%	7.41%
+product17 -> product18	0.6%	7.41%
+product17 -> product19	0.6%	7.41%
+product17 -> product21	0.6%	7.41%
+product17 -> product27	0.6%	7.41%
+product17 -> product34	0.6%	7.41%
+product17 -> product50	0.6%	7.41%
+product15 -> product2	0.7%	7.37%
+product15 -> product12	0.7%	7.37%
+product15 -> product32	0.7%	7.37%
+product15 -> product47	0.7%	7.37%
+product12 -> product2	0.5%	7.35%
+product12 -> product24	0.5%	7.35%
+product12 -> product44	0.5%	7.35%
+product24 -> product2	0.6%	7.32%
+product43 -> product2	0.6%	7.32%
+product24 -> product6	0.6%	7.32%
+product24 -> product8	0.6%	7.32%
+product43 -> product14	0.6%	7.32%
+product24 -> product15	0.6%	7.32%
+product24 -> product22	0.6%	7.32%
+product24 -> product47	0.6%	7.32%
+product43 -> product29	0.6%	7.32%
+product43 -> product37	0.6%	7.32%
+product43 -> product45	0.6%	7.32%
+product43 -> product34, product24	0.6%	7.32%
+product24 -> product43, product34	0.6%	7.32%
+product19 -> product1	0.6%	7.14%
+product1 -> product19	0.6%	7.14%
+product1 -> product23	0.6%	7.14%
+product19 -> product5	0.6%	7.14%
+product19 -> product17	0.6%	7.14%
+product37 -> product43	0.6%	7.14%
+product37 -> product47	0.6%	7.14%
+product2 -> product6	0.6%	7.06%
+product2 -> product24	0.6%	7.06%
+product2 -> product30	0.6%	7.06%
+product2 -> product43	0.6%	7.06%
+product47 -> product6	0.6%	7.06%
+product47 -> product24	0.6%	7.06%
+product47 -> product36	0.6%	7.06%
+product47 -> product37	0.6%	7.06%
+product47 -> product44	0.6%	7.06%
+product42 -> product2	0.5%	6.94%
+product3 -> product5	0.5%	6.94%
+product3 -> product24	0.5%	6.94%
+product42 -> product10	0.5%	6.94%
+product42 -> product15	0.5%	6.94%
+product42 -> product19	0.5%	6.94%
+product42 -> product37	0.5%	6.94%
+product42 -> product47	0.5%	6.94%
+product29 -> product1	0.7%	6.86%
+product29 -> product10	0.7%	6.86%
+product29 -> product14	0.7%	6.86%
+product29 -> product20	0.7%	6.86%
+product29 -> product27	0.7%	6.86%
+product29 -> product34	0.7%	6.86%
+product29 -> product40	0.7%	6.86%
+product29 -> product46	0.7%	6.86%
+product29 -> product48	0.7%	6.86%
+product16 -> product2	0.5%	6.85%
+product16 -> product17	0.5%	6.85%
+product16 -> product19	0.5%	6.85%
+product16 -> product22	0.5%	6.85%
+product16 -> product27	0.5%	6.85%
+product16 -> product28	0.5%	6.85%
+product16 -> product29	0.5%	6.85%
+product16 -> product34	0.5%	6.85%
+product16 -> product35	0.5%	6.85%
+product6 -> product8	0.7%	6.8%
+product6 -> product31	0.7%	6.8%
+product6 -> product36	0.7%	6.8%
+product6 -> product40	0.7%	6.8%
+product48 -> product6	0.5%	6.76%
+product48 -> product9	0.5%	6.76%
+product48 -> product13	0.5%	6.76%
+product48 -> product24	0.5%	6.76%
+product48 -> product27	0.5%	6.76%
+product48 -> product43	0.5%	6.76%
+product48 -> product46	0.5%	6.76%
+product10 -> product6	0.6%	6.67%
+product28 -> product8	0.6%	6.67%
+product10 -> product12	0.6%	6.67%
+product10 -> product15	0.6%	6.67%
+product10 -> product28	0.6%	6.67%
+product28 -> product10	0.6%	6.67%
+product28 -> product22	0.6%	6.67%
+product28 -> product35	0.6%	6.67%
+product28 -> product40	0.6%	6.67%
+product28 -> product29, product14	0.6%	6.67%
+product36 -> product1	0.5%	6.67%
+product36 -> product20	0.5%	6.67%
+product36 -> product34	0.5%	6.67%
+product5 -> product4	0.6%	6.59%
+product5 -> product6	0.6%	6.59%
+product5 -> product8	0.6%	6.59%
+product5 -> product19	0.6%	6.59%
+product5 -> product34	0.6%	6.59%
+product5 -> product49	0.6%	6.59%
+product32 -> product34	0.6%	6.59%
+product32 -> product42	0.6%	6.59%
+product32 -> product23, product6	0.6%	6.59%
+product20 -> product1	0.5%	6.58%
+product33 -> product1	0.5%	6.58%
+product33 -> product5	0.5%	6.58%
+product20 -> product24	0.5%	6.58%
+product20 -> product28	0.5%	6.58%
+product20 -> product33	0.5%	6.58%
+product33 -> product20	0.5%	6.58%
+product20 -> product34	0.5%	6.58%
+product20 -> product36	0.5%	6.58%
+product20 -> product44	0.5%	6.58%
+product20 -> product47	0.5%	6.58%
+product33 -> product21	0.5%	6.58%
+product33 -> product28	0.5%	6.58%
+product33 -> product37	0.5%	6.58%
+product33 -> product43	0.5%	6.58%
+product33 -> product49	0.5%	6.58%
+product20 -> product45, product2	0.5%	6.58%
+product45 -> product5	0.5%	6.49%
+product45 -> product6	0.5%	6.49%
+product45 -> product11	0.5%	6.49%
+product49 -> product15	0.5%	6.49%
+product49 -> product17	0.5%	6.49%
+product45 -> product21	0.5%	6.49%
+product45 -> product23	0.5%	6.49%
+product49 -> product27	0.5%	6.49%
+product49 -> product28	0.5%	6.49%
+product45 -> product30	0.5%	6.49%
+product45 -> product31	0.5%	6.49%
+product49 -> product33	0.5%	6.49%
+product45 -> product34	0.5%	6.49%
+product45 -> product35	0.5%	6.49%
+product45 -> product37	0.5%	6.49%
+product49 -> product39	0.5%	6.49%
+product45 -> product40	0.5%	6.49%
+product45 -> product2, product20	0.5%	6.49%
+product23 -> product3	0.7%	6.48%
+product23 -> product7	0.7%	6.48%
+product23 -> product10	0.7%	6.48%
+product23 -> product34	0.7%	6.48%
+product23 -> product40	0.7%	6.48%
+product23 -> product48	0.7%	6.48%
+product8 -> product5	0.6%	6.45%
+product8 -> product24	0.6%	6.45%
+product8 -> product28	0.6%	6.45%
+product8 -> product30	0.6%	6.45%
+product8 -> product31	0.6%	6.45%
+product4 -> product10	0.5%	6.41%
+product4 -> product43	0.5%	6.41%
+product4 -> product46	0.5%	6.41%
+product34 -> product7	0.5%	6.41%
+product34 -> product14	0.5%	6.41%
+product34 -> product16	0.5%	6.41%
+product34 -> product20	0.5%	6.41%
+product34 -> product22	0.5%	6.41%
+product34 -> product28	0.5%	6.41%
+product34 -> product36	0.5%	6.41%
+product34 -> product45	0.5%	6.41%
+product34 -> product46	0.5%	6.41%
+product34 -> product10, product5	0.5%	6.41%
+product46 -> product21	0.6%	6.38%
+product13 -> product6	0.5%	6.33%
+product13 -> product17	0.5%	6.33%
+product13 -> product35	0.5%	6.33%
+product13 -> product47	0.5%	6.33%
+product13 -> product48	0.5%	6.33%
+product13 -> product50	0.5%	6.33%
+product15 -> product4	0.6%	6.32%
+product15 -> product10	0.6%	6.32%
+product15 -> product11	0.6%	6.32%
+product15 -> product21	0.6%	6.32%
+product15 -> product22	0.6%	6.32%
+product15 -> product24	0.6%	6.32%
+product15 -> product30	0.6%	6.32%
+product15 -> product36	0.6%	6.32%
+product15 -> product48	0.6%	6.32%
+product17 -> product2	0.5%	6.17%
+product17 -> product7	0.5%	6.17%
+product17 -> product11	0.5%	6.17%
+product17 -> product13	0.5%	6.17%
+product17 -> product15	0.5%	6.17%
+product17 -> product16	0.5%	6.17%
+product17 -> product43	0.5%	6.17%
+product17 -> product49	0.5%	6.17%
+product24 -> product3	0.5%	6.1%
+product43 -> product4	0.5%	6.1%
+product43 -> product9	0.5%	6.1%
+product24 -> product12	0.5%	6.1%
+product43 -> product17	0.5%	6.1%
+product24 -> product20	0.5%	6.1%
+product43 -> product21	0.5%	6.1%
+product24 -> product23	0.5%	6.1%
+product24 -> product29	0.5%	6.1%
+product24 -> product46	0.5%	6.1%
+product24 -> product48	0.5%	6.1%
+product43 -> product33	0.5%	6.1%
+product43 -> product38	0.5%	6.1%
+product43 -> product40	0.5%	6.1%
+product43 -> product46	0.5%	6.1%
+product43 -> product48	0.5%	6.1%
+product1 -> product7	0.5%	5.95%
+product1 -> product20	0.5%	5.95%
+product1 -> product21	0.5%	5.95%
+product1 -> product27	0.5%	5.95%
+product1 -> product33	0.5%	5.95%
+product1 -> product36	0.5%	5.95%
+product19 -> product2	0.5%	5.95%
+product19 -> product6	0.5%	5.95%
+product19 -> product9	0.5%	5.95%
+product37 -> product15	0.5%	5.95%
+product19 -> product16	0.5%	5.95%
+product19 -> product23	0.5%	5.95%
+product19 -> product40	0.5%	5.95%
+product19 -> product41	0.5%	5.95%
+product19 -> product42	0.5%	5.95%
+product37 -> product27	0.5%	5.95%
+product37 -> product33	0.5%	5.95%
+product37 -> product42	0.5%	5.95%
+product37 -> product45	0.5%	5.95%
+product29 -> product3	0.6%	5.88%
+product29 -> product7	0.6%	5.88%
+product29 -> product42	0.6%	5.88%
+product29 -> product43	0.6%	5.88%
+product29 -> product44	0.6%	5.88%
+product29 -> product14, product28	0.6%	5.88%
+product2 -> product12	0.5%	5.88%
+product2 -> product14	0.5%	5.88%
+product2 -> product16	0.5%	5.88%
+product2 -> product17	0.5%	5.88%
+product2 -> product19	0.5%	5.88%
+product2 -> product27	0.5%	5.88%
+product2 -> product29	0.5%	5.88%
+product2 -> product31	0.5%	5.88%
+product2 -> product42	0.5%	5.88%
+product2 -> product47	0.5%	5.88%
+product47 -> product2	0.5%	5.88%
+product47 -> product13	0.5%	5.88%
+product47 -> product14	0.5%	5.88%
+product47 -> product20	0.5%	5.88%
+product47 -> product21	0.5%	5.88%
+product47 -> product25	0.5%	5.88%
+product47 -> product28	0.5%	5.88%
+product47 -> product31	0.5%	5.88%
+product47 -> product40	0.5%	5.88%
+product47 -> product42	0.5%	5.88%
+product2 -> product45, product20	0.5%	5.88%
+product6 -> product2	0.6%	5.83%
+product6 -> product5	0.6%	5.83%
+product6 -> product10	0.6%	5.83%
+product6 -> product17	0.6%	5.83%
+product6 -> product20	0.6%	5.83%
+product6 -> product22	0.6%	5.83%
+product6 -> product24	0.6%	5.83%
+product6 -> product27	0.6%	5.83%
+product6 -> product33	0.6%	5.83%
+product6 -> product44	0.6%	5.83%
+product6 -> product47	0.6%	5.83%
+product6 -> product49	0.6%	5.83%
+product6 -> product23, product32	0.6%	5.83%
+product23 -> product1	0.6%	5.56%
+product23 -> product4	0.6%	5.56%
+product23 -> product11	0.6%	5.56%
+product23 -> product16	0.6%	5.56%
+product23 -> product36	0.6%	5.56%
+product23 -> product49	0.6%	5.56%
+product23 -> product32, product6	0.6%	5.56%
+product10 -> product4	0.5%	5.56%
+product28 -> product6	0.5%	5.56%
+product10 -> product7	0.5%	5.56%
+product10 -> product18	0.5%	5.56%
+product10 -> product22	0.5%	5.56%
+product10 -> product40	0.5%	5.56%
+product10 -> product42	0.5%	5.56%
+product10 -> product44	0.5%	5.56%
+product28 -> product16	0.5%	5.56%
+product28 -> product20	0.5%	5.56%
+product28 -> product23	0.5%	5.56%
+product28 -> product25	0.5%	5.56%
+product28 -> product26	0.5%	5.56%
+product28 -> product33	0.5%	5.56%
+product28 -> product34	0.5%	5.56%
+product28 -> product47	0.5%	5.56%
+product28 -> product49	0.5%	5.56%
+product10 -> product34, product5	0.5%	5.56%
+product5 -> product3	0.5%	5.49%
+product5 -> product18	0.5%	5.49%
+product5 -> product29	0.5%	5.49%
+product32 -> product5	0.5%	5.49%
+product5 -> product32	0.5%	5.49%
+product5 -> product33	0.5%	5.49%
+product5 -> product44	0.5%	5.49%
+product5 -> product45	0.5%	5.49%
+product32 -> product22	0.5%	5.49%
+product32 -> product25	0.5%	5.49%
+product32 -> product27	0.5%	5.49%
+product32 -> product29	0.5%	5.49%
+product32 -> product31	0.5%	5.49%
+product32 -> product40	0.5%	5.49%
+product5 -> product34, product10	0.5%	5.49%
+product8 -> product21	0.5%	5.38%
+product8 -> product22	0.5%	5.38%
+product8 -> product44	0.5%	5.38%
+product46 -> product4	0.5%	5.32%
+product46 -> product14	0.5%	5.32%
+product46 -> product24	0.5%	5.32%
+product46 -> product27	0.5%	5.32%
+product46 -> product34	0.5%	5.32%
+product46 -> product43	0.5%	5.32%
+product46 -> product48	0.5%	5.32%
+product15 -> product9	0.5%	5.26%
+product15 -> product14	0.5%	5.26%
+product15 -> product17	0.5%	5.26%
+product15 -> product25	0.5%	5.26%
+product15 -> product37	0.5%	5.26%
+product15 -> product42	0.5%	5.26%
+product15 -> product44	0.5%	5.26%
+product15 -> product49	0.5%	5.26%
+product15 -> product23, product6	0.5%	5.26%
+product29 -> product2	0.5%	4.9%
+product29 -> product5	0.5%	4.9%
+product29 -> product16	0.5%	4.9%
+product29 -> product22	0.5%	4.9%
+product29 -> product24	0.5%	4.9%
+product29 -> product32	0.5%	4.9%
+product29 -> product50	0.5%	4.9%
+product6 -> product11	0.5%	4.85%
+product6 -> product13	0.5%	4.85%
+product6 -> product14	0.5%	4.85%
+product6 -> product19	0.5%	4.85%
+product6 -> product28	0.5%	4.85%
+product6 -> product45	0.5%	4.85%
+product6 -> product48	0.5%	4.85%
+product6 -> product23, product15	0.5%	4.85%
+product23 -> product14	0.5%	4.63%
+product23 -> product19	0.5%	4.63%
+product23 -> product21	0.5%	4.63%
+product23 -> product24	0.5%	4.63%
+product23 -> product28	0.5%	4.63%
+product23 -> product44	0.5%	4.63%
+product23 -> product45	0.5%	4.63%
+product23 -> product6, product15	0.5%	4.63%

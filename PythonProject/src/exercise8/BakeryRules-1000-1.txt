@@ -1,0 +1,5 @@
+Rule	support	confidence
+product28 -> product29	5.3%	58.89%
+product6 -> product23	5.8%	56.31%
+product23 -> product6	5.8%	53.7%
+product29 -> product28	5.3%	51.96%
