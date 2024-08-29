@@ -5,5 +5,5 @@ After that you can download and install program PyCharm:
 https://www.jetbrains.com/pycharm/download/?section=windows
 In the end:
 	1. Open PyCharm
-  2. Select open
+        2. Select open
 	3. Find the folder PythonProjct (your path must be: 'C:\your user\...\PythonProject')
